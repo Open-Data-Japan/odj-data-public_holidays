@@ -10,6 +10,11 @@ License for this repository:
 
 ## Files
 
+|  File name  |  Description  | Format |   
+| --- | --- |  --- |   
+|  data/original/syukujitsu.csv  |  Original data | CSV (Shift-JIS) |   
+|  data/processed/odj-data-public_holidays.csv  |  CSV data with English translation  | CSV (UTF-8)  |
+
 ## Data dictionary
 
 |  Field name  |  Description  | Format |   
