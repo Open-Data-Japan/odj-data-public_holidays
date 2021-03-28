@@ -18,4 +18,4 @@ csv = csv.merge(trans, left_on='NAME_OF_PUBLIC_HOLIDAY_JP', right_on='Japanese',
 #print(csv.columns)
 
 # Save processed data
-csv.drop(labels=["Japanese"], axis=1).to_csv(path_processed_file, encoding='UTF-8')
+csv.drop(labels=["Japanese"], axis=1).to_csv(path_processed_file, encoding='UTF-8', index=False)
