@@ -12,8 +12,8 @@ License for this repository:
 
 ## Data dictionary
 
-|  Field name  |  Description  | Format |
-| --- | --- |
-|  DATE_OF_PUBLIC_HOLIDAY  |  Date when the public holiday occurred  | YYYY/M/D |
+|  Field name  |  Description  | Format |   
+| --- | --- |  --- |   
+|  DATE_OF_PUBLIC_HOLIDAY  |  Date when the public holiday occurred  | YYYY/M/D |   
 |  NAME_OF_PUBLIC_HOLIDAY_JP  |  Name of the public holiday in Japanese  | String  |
 |  NAME_OF_PUBLIC_HOLIDAY_EN  |  Name of the public holiday in English  | String |
